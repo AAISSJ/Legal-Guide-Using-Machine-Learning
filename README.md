@@ -1,4 +1,4 @@
-# LawGuide
+# LawGuide Project
 - CNT3002 (Fall, 2020) Language Technology and Cultural Content
 - 2020.12.20
 
