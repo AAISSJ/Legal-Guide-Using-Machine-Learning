@@ -1,4 +1,4 @@
-# LawGuide Project
+# Legal Guide Using Machine Learning
 - CNT3002 (Fall, 2020) Language Technology and Cultural Content
 - 2020.12.20 / 언어공학과 문화컨텐츠
 
